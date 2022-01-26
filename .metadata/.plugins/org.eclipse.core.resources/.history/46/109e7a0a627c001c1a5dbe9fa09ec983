@@ -1,0 +1,12 @@
+package com.learn.typecasting;
+
+public class Typecasting {
+	public static void main(String[] args) {
+		
+		//Implicit conversion
+		System.out.println("Implicit conversion");
+		char a='A';
+		System.out.println("value of a"+ a);
+	}
+
+}

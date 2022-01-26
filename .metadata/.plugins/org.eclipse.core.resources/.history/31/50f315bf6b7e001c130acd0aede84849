@@ -1,0 +1,12 @@
+package com.learn.accessmodifiers;
+
+public class TestAccessSpecifier {
+	public static void main(String[] args) {
+		AccessModifier obj=new AccessModifier();
+		obj.hello();
+		obj.display();
+		obj.world();
+		
+	}
+
+}

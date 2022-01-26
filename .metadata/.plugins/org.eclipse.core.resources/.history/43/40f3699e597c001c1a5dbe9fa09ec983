@@ -1,0 +1,24 @@
+package com.first.condition;
+
+public class loop {
+	public static void main(String[] args) {
+		//print my name 5 times
+		int i=1;
+		while(i<=5)
+		{
+			System.out.println(i+"Usha");
+			i++;
+		}
+		
+		//print using do while loop
+		do
+		{
+			System.out.println(i+"Usha");
+			i++;
+		}
+		while(i<=10);
+		
+
+	}
+
+}
